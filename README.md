@@ -13,3 +13,7 @@
 - Removes invalid records
 - Fetches product data from API
 - Generates sales reports
+- Encoding-safe file handling
+- Data validation & analytics
+- API enrichment
+- Professional report generation
