@@ -1,0 +1,26 @@
+DATA QUALITY REPORT
+===================
+
+Dataset: Customers
+Records processed: 25
+Duplicates removed: 0
+Missing values handled: 9
+Records loaded successfully: 25
+  
+
+Dataset:products
+Records processed: 26 
+Duplicates removed: 1
+Missing values handled: 5
+Records loaded successfully: 25
+
+
+
+Dataset: sales
+Records processed: 26
+Duplicates removed: 1
+Missing values handled: 5
+Records loaded successfully: 25
+  
+
+  
