@@ -111,7 +111,7 @@ python main.py
 
 ---
 
-## ✅ Evaluation Checklist Compliance
+##  Evaluation Checklist Compliance
 
 * ✔ Correct repository name
 * ✔ Proper folder structure
